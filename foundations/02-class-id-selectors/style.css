@@ -1,0 +1,18 @@
+#blue {
+  color: blue;
+  font-size: 36px;
+}
+
+#green {
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
+.big-font {
+  font-size: 24px;
+}
+
+.pink {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
